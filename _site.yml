@@ -4,8 +4,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
     - text: "Links"
       href: Links.html
+    - text: "Research"
+      href: Research.html
+    - text: "GeoTutor"
+      href: GeoTutor.html
+    - text: "Journal"
+      href: Journal.html
 output_dir: "docs"
