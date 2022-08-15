@@ -1,5 +1,5 @@
 ---
-title: "ASKGeoTest"
+title: "Welcome"
 output: html_document
 ---
 
@@ -19,25 +19,47 @@ output: html_document
 
 # **ASKGEO's Geology Hub**
 
-Hello World!
+Welcome! I am a hydrogeologist interested in how catchment hydrology affects ecosystem health.
+I’m also an active educator in geoscience through outreach and teaching.
 
-## How to use
+Please find my past projects under **Research** and geoscience resources under **GeoTutor**.
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+</br>
+<i>
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+> *Long live the weeds and the wilderness yet. -Gerard Manley Hopkins*
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
-
+</i>
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+<a href = "askgeology.com">
+![](images/site_logo_blackandwhite.png)
+</a>
+<br>
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+ASKGeology is Abigail Knapp's hub for geology research and geoscience outreach.
+
+<br>
+
+### More links
+
+<a href = "https://twitter.com/GeoAbby">
+
+Twitter
+
+</a>
+
+<a href = "https://www.linkedin.com/in/askgeology/">
+
+LinkedIn
+
+</a>
+  
+<a href = "https://github.com/askgeo">
+  
+Github
+  
 </a>
 </div>

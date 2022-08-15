@@ -2,14 +2,12 @@ name: "ASKGeology"
 navbar:
   title: "ASKGeology"
   left:
-    - text: "Home"
+    - text: "Welcome"
       href: index.html
-    - text: "Links"
-      href: Links.html
+    - text: "About"
+      href: About.html
     - text: "Research"
       href: Research.html
     - text: "GeoTutor"
       href: GeoTutor.html
-    - text: "Journal"
-      href: Journal.html
 output_dir: "docs"
